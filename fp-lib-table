@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 48F-01GY2DPL2NL)(type KiCad)(uri ${KIPRJMOD}/libs/48F-01GY2DPL2NL.pretty)(options "")(descr ""))
+  (lib (name PMOD)(type KiCad)(uri ${KIPRJMOD}/libs/PMOD.pretty)(options "")(descr ""))
+)
